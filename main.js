@@ -21,7 +21,7 @@ function changeSocialMediaLinks() {
   }
 }
 
-changeSocialMediaLinks()
+//changeSocialMediaLinks()
 
 function getGitHubUserInfo() {
   const url = `https://api.github.com/users/${socialMediaLinks.github}`
